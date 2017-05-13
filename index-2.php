@@ -21,7 +21,6 @@
 
 <!-- CSS Styles -->
 <link rel="stylesheet" href="assets/css/styles.css" />
-<link rel="stylesheet" type="text/css" href="assets/css/custom.css">
 
 <!-- CSS Theme -->
 <link rel="stylesheet" id="theme" href="assets/css/themes/theme-green.css" />
@@ -31,9 +30,9 @@
 <body class="bg-grey">
 
 <!-- Loader -->
-<div id="page-loader" class="bg-white">
+<!-- <div id="page-loader" class="bg-white">
 	 <svg class="loader" width="65px" height="65px" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg"><circle class="circle" fill="none" stroke-width="3" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg>
-</div>
+</div> -->
 <!-- Loader / End -->
 
 <!-- BG Image -->
@@ -105,6 +104,7 @@
 				<h1 class="mb-0">I'm Muhammad Yana Mulyana</h1>
 				<h3 class="text-muted"><span class="typing">Web Developer and Digital Marketing</span></h3>
 				<hr class="sep-line">
+
 				<div class="row">
 					<div class="col-sm-4">
 						<dl class="description-2">
@@ -158,11 +158,10 @@
 		<section id="skills" class="bg-white">
 			<div class="section-content">
 				<h2 class="text-center text-muted">My Skills</h2>
-				<!-- Progamming and digital marketing -->
 				<div class="row">
 					<div class="col-md-6">
 						<h3>Progamming</h3>
-						<h5 class="mb-5">PHP & MySQL (CRUD & OOP)</h5>
+						<h5 class="mb-5">PHP & MySQL</h5>
 						<div class="progress">
 							<div class="progress-bar" role="progressbar" aria-valuenow="80"></div>
 						</div>
@@ -174,7 +173,7 @@
 						<div class="progress">
 							<div class="progress-bar" role="progressbar" aria-valuenow="75"></div>
 						</div>
-						<h5 class="mb-5">HTML5/CSS3</h5>
+						<h5 class="mb-5">HTML/CSS</h5>
 						<div class="progress">
 							<div class="progress-bar" role="progressbar" aria-valuenow="95"></div>
 						</div>
@@ -186,84 +185,35 @@
 						<div class="progress">
 							<div class="progress-bar" role="progressbar" aria-valuenow="85"></div>
 						</div>
-						<h5 class="mb-5">JSON</h5>
-						<div class="progress">
-							<div class="progress-bar" role="progressbar" aria-valuenow="85"></div>
-						</div>
-						<h5 class="mb-5">Android Studio</h5>
-						<div class="progress">
-							<div class="progress-bar" role="progressbar" aria-valuenow="40"></div>
-						</div>
 					</div> <!-- colom -->
 					<div class="col-md-6">
-						<h3>CMS & Plugin</h3>
-						<h5 class="mb-5">Wordpress</h5>
+						<h3>Digital Marketing</h3>
+						<h5 class="mb-5">Facebook Ads, Instagram Ads, Google Ads</h5>
 						<div class="progress">
 							<div class="progress-bar" role="progressbar" aria-valuenow="80"></div>
 						</div>
-						<h5 class="mb-5">Visual Composer & Addon </h5>
+						<h5 class="mb-5">Google Analytics</h5>
+						<div class="progress">
+							<div class="progress-bar" role="progressbar" aria-valuenow="90"></div>
+						</div>
+						<h5 class="mb-5">Google Tag Manager</h5>
 						<div class="progress">
 							<div class="progress-bar" role="progressbar" aria-valuenow="80"></div>
 						</div>
-						<h5 class="mb-5">Premium Template Setting & Design </h5>
+						<h5 class="mb-5">HTML/CSS</h5>
 						<div class="progress">
-							<div class="progress-bar" role="progressbar" aria-valuenow="80"></div>
+							<div class="progress-bar" role="progressbar" aria-valuenow="95"></div>
 						</div>
-						<h5 class="mb-5">Woocommerce</h5>
+						<h5 class="mb-5">Javascript / jQuery</h5>
 						<div class="progress">
-							<div class="progress-bar" role="progressbar" aria-valuenow="85"></div>
+							<div class="progress-bar" role="progressbar" aria-valuenow="75"></div>
 						</div>
-						<h5 class="mb-5">Slider Revilution</h5>
-						<div class="progress">
-							<div class="progress-bar" role="progressbar" aria-valuenow="70"></div>
-						</div>
-						<h5 class="mb-5">Contact Form 7</h5>
-						<div class="progress">
-							<div class="progress-bar" role="progressbar" aria-valuenow="100"></div>
-						</div>
-						<h5 class="mb-5">JNE,Tiki And Pos Shipping</h5>
+						<h5 class="mb-5">jQuery Plugin</h5>
 						<div class="progress">
 							<div class="progress-bar" role="progressbar" aria-valuenow="85"></div>
 						</div>	
-						<h5 class="mb-5">Opencart</h5>
-						<div class="progress">
-							<div class="progress-bar" role="progressbar" aria-valuenow="80"></div>
-						</div>
 					</div> <!-- colomn -->
 				</div> <!-- row -->
-				<!-- end progamming and digital marketing -->
-				<!-- Progamming and digital marketing -->
-				<hr>
-				<h2 class="text-center text-muted">My Skills</h2>
-				<div class="row">
-					<div class="col-md-6">
-						<h3>Other</h3>
-						<ul>
-							<li class="text-bold"><strong>Template Engine</strong></li>
-							<ul>
-								<li>Redesign Template</li>
-								<li>Design Template using HTML, CSS, jQuery, Materializecss and Bootstrap</li>
-							</ul>
-							<li class="mt-5">Web Hosting (cPanel & WHM)</li>
-							<ul>
-								<li>Create cPanel, registration Domain, Registration Hosting, Addon Domain, FTP, DNS Management, Management Database</li>
-							</ul>
-							<li class="mt-5">Firebase</li>
-							<li>API Google, Facebook,Twitter</li>
-							<li>Web Push Notification (Onesignal & Pushcrew)</li>
-							<li>Debugging</li>
-							<ul>
-								<li>Chrome Inspector</li>
-								<li>Firefox Inspector</li>
-							</ul>
-						</ul>
-						
-					</div> <!-- colom -->
-					<div class="col-md-6">
-						
-					</div> <!-- colomn -->
-				</div> <!-- row -->
-				<!-- end progamming and digital marketing -->
 			</div><!-- content -->
 		</section>
 		<!-- Progamming Section -->
